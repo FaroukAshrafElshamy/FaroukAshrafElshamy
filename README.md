@@ -18,6 +18,6 @@ https://linktr.ee/FaroukAshraf
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukAshrafElshamy&theme=gotham&hide_border=true)<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaroukAshrafElshamy&theme=gotham&hide_border=true) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Mostafaaa&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FaroukAshrafElshamy&theme=gotham&hide_border=true) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaroukAshrafElshamy&theme=gotham&hide_border=true)
 <br>
 </div>

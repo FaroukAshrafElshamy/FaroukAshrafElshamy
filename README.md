@@ -6,8 +6,7 @@ I am a Computer Science student at Damietta University and a Student in ALX SE, 
 
 
 [![](https://visitcount.itsvg.in/api?id=FaroukAshrafElshamy&icon=5&color=3)](https://visitcount.itsvg.in)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/faroukashraf)<br>
+## 🌐 How to reach me:
 https://linktr.ee/FaroukAshraf
 
 # 💻 Tech Stack:

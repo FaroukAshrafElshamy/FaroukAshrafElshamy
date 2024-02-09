@@ -16,7 +16,7 @@ https://linktr.ee/FaroukAshraf
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukAshrafElshamy&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <div align="center">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Mostafaaa&theme=dark&layout=compact&show_icons=true&locale=en"/>
-    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Mostafaaa&theme=dark&layout=compact&include_all_commits=true&show_icons=true" alt="Mohamed-Mostafaaa" />
+![](https://github-readme-streak-stats.herokuapp.com/?user=FaroukAshrafElshamy&theme=gotham&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukAshrafElshamy&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

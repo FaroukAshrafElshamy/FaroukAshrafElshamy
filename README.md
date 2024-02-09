@@ -1,3 +1,6 @@
+<h1 align="center">Hi there 👋 I am Farouk Ashraf</h1>
+<h3 align="center">Undergraduate CS Student | ALX SE Student | ML & DL Student</h3>
+
 # 💫 About Me:
 I am a Computer Science student at Damietta University and a Student in ALX SE, and I am really interested in gaining new information <br>about science overall, computer science and ML especially, I am working on improving my knowledge about Web and Software Engineering.
 

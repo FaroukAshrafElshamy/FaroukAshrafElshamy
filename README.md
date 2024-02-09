@@ -14,6 +14,8 @@ https://linktr.ee/FaroukAshraf
 # 📊 GitHub Stats:
 
 <div align="center">
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaroukAshrafElshamy&theme=gotham&hide_border=true) <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FaroukAshrafElshamy&theme=gotham&hide_border=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FaroukAshrafElshamy&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Mostafaaa&layout=compact&theme=radical)<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohamed-Mostafaaa&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohamed-Mostafaaa&theme=radical)
 <br>
+</div>
